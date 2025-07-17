@@ -219,6 +219,17 @@ main > section{
 .sponsor-companies img{
   filter: grayscale(100%);
 }
+ 
+.footer-text {
+  background-color: antiquewhite;
+  display: flex;                  
+  justify-content: center;       
+  align-items: center;            
+  width: 1400px;
+  height: 80px;
+  margin-top: 40px;
+}
+
 
 /*Responsive media query*/
 @media screen and (max-width: 576px) {
